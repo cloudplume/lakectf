@@ -17,15 +17,15 @@
 
 ### 🖥️ 前台：
 
-![](images\index.JPG)
+![](images/index.JPG)
 
-![](images\change.JPG)
+![](images/change.JPG)
 
-![](images\score.JPG)
+![](images/score.JPG)
 
 ### 🌐后台：
 
-![](images\manager.JPG)
+![](images/manager.JPG)
 
 ## ⚙️ 配置说明
 
