@@ -29,7 +29,7 @@
 
 ## ⚙️ 配置说明
 
-关于第一次运行程序，赋予lake权限(**chmod 777 lake**)，运行lake会在本地生成front（前台）、manager（后台）、config（配置文件）、avatar（头像存储）。关于docker镜像源地址无法访问需要自行解决。关于项目文件存放在var/www目录中(**var/www/lake**)。后台登录账号：admin，密码：123456
+在linux中创建var/www/lake文件夹，把lake上传到此文件夹中。(**var/www/lake**)。关于第一次运行程序，赋予lake权限(**chmod 777 lake**)，运行lake会在本地生成front（前台）、manager（后台）、config（配置文件）、avatar（头像存储）。关于docker镜像源地址无法访问需要自行解决。后台登录账号：admin，密码：123456
 
 ## 🚀docker安装
 
